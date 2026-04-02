@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../Downloads/Library JS 2/FES Library - JS/assets"
+		},
+		{
+			"name": "fes projects",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fes projects"
+	}
+}
